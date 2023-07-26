@@ -15,3 +15,4 @@ meses = {
 
 print (meses["Jun"])
 print(meses.get("May"))
+print(meses.get("abc","Janeiro"))
